@@ -10,6 +10,14 @@ img {
     margin-right: 300px;
 }
 p {
-    color: #ffffff;
+    color: #e71717;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: mediuml;
 }
-
+img{align-self: center;
+}
+#first{
+    align-self: center;
+}
